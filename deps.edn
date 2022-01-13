@@ -10,7 +10,6 @@
              org.clojure/test.check            {:mvn/version "1.1.0"}
              http-kit/http-kit                 {:mvn/version "2.5.3"}
              org.immutant/web                  {:mvn/version "2.1.10"}
-             nginx-clojure/nginx-clojure       {:mvn/version "0.5.2"}
              aleph/aleph                       {:mvn/version "0.4.6"}
              macchiato/core                    {:mvn/version "0.2.22"}
              luminus/ring-undertow-adapter     {:mvn/version "1.2.3"}
